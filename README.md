@@ -56,3 +56,4 @@ Other features of chrome which are not available in the menu  can be  useful as 
  * [Command Line API](https://developer.chrome.com/devtools/docs/commandline-api)
  * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
  * [chrome:// Commands](http://www.thegeekstuff.com/2011/10/google-chrome-commands/)
+ * [devtools-cheatsheet](http://anti-code.com/devtools-cheatsheet/)
